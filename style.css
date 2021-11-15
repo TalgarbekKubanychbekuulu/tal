@@ -1,8 +1,8 @@
 .placeholder{
     color: rgb(255, 255, 255);
     font-weight: bold;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-    font-size: 1.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.3rem
     display: flex;
     align-items: center;
     justify-content: center;
