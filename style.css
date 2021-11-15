@@ -10,7 +10,7 @@
 }
 nav{
     background-color: tomato;
-    min-height: 60px
+    min-height: 60px;
 }
 header{
     background-color: antiquewhite;
@@ -29,7 +29,7 @@ footer{
     min-height: 80px;
 }
 .row{
-    display: flex;
+    display: flex
 }
 .column{
     /* flex: 1 0 0; */
