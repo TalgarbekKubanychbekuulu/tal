@@ -34,8 +34,8 @@ footer{
 .column{
     /* flex: 1 0 0; */
 
-    flex-grow: 1
-    flex-shrink: 0;
+    flex-grow: 1;
+    flex-shrink: 0
     flex-basis: 0;
 }
 aside{
