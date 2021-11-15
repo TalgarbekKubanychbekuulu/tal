@@ -6,9 +6,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    text-transform: uppercase
+    text-transform: uppercase;
 }
-nav{
+nav
     background-color: tomato;
     min-height: 60px;
 }
