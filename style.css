@@ -1,0 +1,50 @@
+.placeholder{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+}
+nav{
+    background-color: tomato;
+    min-height: 60px;
+}
+header{
+    background-color: antiquewhite;
+    min-height: 150px;
+}
+main{
+    background-color: burlywood;
+    min-height: 350px;
+}
+Aside{
+background-color:green ;
+min-height: 350px;
+}
+footer{
+    background-color: crimson;
+    min-height: 80px;
+}
+.row{
+    display: flex;
+}
+.column{
+    /* flex: 1 0 0; */
+
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 0;
+}
+aside{
+    width: 25%;
+}
+article{
+    color: red;
+}
+.container{
+    max-width: 980px;
+    margin: 0 auto;
+}
