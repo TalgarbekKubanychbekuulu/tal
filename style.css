@@ -9,11 +9,11 @@
     text-transform: uppercase;
 }
 nav{
-    background-color: tomato;
+    background-color:black;
     min-height: 60px;
 }
 header{
-    background-color: antiquewhite;
+    background-color: black;
     min-height: 150px;
 }
 main{
@@ -45,6 +45,6 @@ article{
     color: red;
 }
 .container{
-    max-width: 980px
+    max-width: 980px;
     margin: 0 auto;
 }
